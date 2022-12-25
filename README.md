@@ -23,4 +23,4 @@ This dataset can be downloaded using fiftyone package that has many prepared dat
 9. Get the image metadata and annotations from the json file. 
 10. Save each image metadata and annotations in a new json file.
 11. Get the paths of the cropped and segmented images from the new json file.
-12. Print all the images.
+12. Print all the new images.
